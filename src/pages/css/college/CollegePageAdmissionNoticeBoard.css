@@ -1,0 +1,8 @@
+.cPageAdmNotice_Height{min-height:180px; max-height:250px; overflow:auto; overflow-x: hidden;}
+.cPageAdmNotice {list-style-type:none; padding:0; margin:0; text-align:left; font-family:Rubik}
+.cPageAdmNotice li {padding:10px 3px 10px 5px; margin:0; border-bottom:1px dashed #e5e5e5; transition:250ms ease-in-out}
+.cPageAdmNotice a {text-decoration:none; color:#F66}
+.cPageAdmNotice a:hover {color:#cc0000}
+.cPageAdmNotice .title {display:block}
+.cPageAdmNotice li:hover {background:#f0f0f0}
+.cPageAdmNotice .publishDetails {color:#555; font-size:11px}
